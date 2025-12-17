@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e
-
+# dummy comment
 export COMMIT=fake
 
 cd $(dirname $0)
